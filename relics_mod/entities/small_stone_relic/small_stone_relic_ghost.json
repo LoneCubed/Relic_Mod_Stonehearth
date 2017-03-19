@@ -1,0 +1,32 @@
+{
+	"mixins": "stonehearth:mixins:place_object",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(small_stone_relic.qb)"
+				]
+			}
+		},
+		"mob": {
+			"model_origin": {
+				"x": -0.05,
+				"y": 0,
+				"z": 0.05
+			},
+			"region_origin": {
+				"x": 0.5,
+				"y": 0,
+				"z": 0.5
+			}
+		}
+	},
+	"entity_data": {
+		"stonehearth:catalog": {
+			"description": "Rebuilt ancient relic!",
+			"icon": "file(small_stone_relic.png)",
+			"display_name": "Small Stone Relic",
+			"material_tags": "Decorative stone relic"
+		}
+	}
+}

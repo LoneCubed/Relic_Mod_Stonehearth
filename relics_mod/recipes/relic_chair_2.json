@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+	"work_units" : 2,
+	"recipe_name" : "relic_chair_2",
+	"description" : "Ancient kings would sit in chairs like this one",
+	"flavor" : "As flat as my enemies kingdoms!",
+	"portrait" : "/relics_mod/entities/relic_chair_2/relic_chair_2.png",
+	"level_requirement" : 3,
+	"ingredients": [
+		{
+			"material" : "stone resource",
+			"count" : 5
+		}
+	],
+	"produces": [
+		{
+			"item":"relics_mod:relic_chair_2"
+		}
+		
+	]
+}

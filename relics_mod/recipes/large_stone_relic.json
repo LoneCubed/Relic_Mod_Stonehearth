@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+	"work_units" : 2,
+	"recipe_name" : "large_stone_relic",
+	"description" : "A rebuilt remnant of an ancient cave",
+	"flavor" : "A wonder, if it were any taller",
+	"portrait" : "/relics_mod/entities/large_stone_relic/large_stone_relic.png",
+	"level_requirement" : 2,
+	"ingredients": [
+		{
+			"material" : "stone resource",
+			"count" : 3
+		}
+	],
+	"produces": [
+		{
+			"item":"relics_mod:large_stone_relic"
+		}
+		
+	]
+}

@@ -1,0 +1,16 @@
+{
+	"mixins": "Stonehearth:mixins:item_properties",
+	"type": "entity",
+	"components": {
+		"model_variants": {
+			"default": {
+				"models": [
+					"file(small_stone_relic.qb)"
+				]
+			}
+		},
+		"mob" : {
+			"model_origin" : { "x": 0.00, "y": 0, "z": 0.00 }
+		}
+	}
+}

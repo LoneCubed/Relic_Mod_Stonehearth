@@ -1,0 +1,19 @@
+{
+	"info": {
+		"name": "relic_collection",
+		"version": 1
+	},
+	"aliases": {
+		"small_stone_relic": "file(entities/small_stone_relic/small_stone_relic.json)",
+		"medium_stone_relic": "file(entities/medium_stone_relic/medium_stone_relic.json)",
+		"large_stone_relic": "file(entities/large_stone_relic/large_stone_relic.json)",
+		"relic_chair_1": "file(entities/relic_chair_1/relic_chair_1.json)",
+		"relic_chair_2": "file(entities/relic_chair_2/relic_chair_2.json)",
+		"relic_chair_3": "file(entities/relic_chair_3/relic_chair_3.json)",
+		"relic_chair_4": "file(entities/relic_chair_4/relic_chair_4.json)",
+		"relic_chair_5": "file(entities/relic_chair_5/relic_chair_5.json)"
+	},
+	"mixintos": {
+		"stonehearth/jobs/mason/recipes/recipes.json": "file(recipes/recipes.json)"
+	}
+}

@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+	"work_units" : 2,
+	"recipe_name" : "small_stone_relic",
+	"description" : "A rebuilt remnant of an ancient cave",
+	"flavor" : "You can't just rebuild a relic!",
+	"portrait" : "/relics_mod/entities/small_stone_relic/small_stone_relic.png",
+	"level_requirement" : 1,
+	"ingredients": [
+		{
+			"material" : "stone resource",
+			"count" : 1
+		}
+	],
+	"produces": [
+		{
+			"item":"relics_mod:small_stone_relic"
+		}
+		
+	]
+}

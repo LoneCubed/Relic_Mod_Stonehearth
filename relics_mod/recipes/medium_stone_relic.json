@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+	"work_units" : 2,
+	"recipe_name" : "medium_stone_relic",
+	"description" : "A rebuilt remnant of an ancient cave",
+	"flavor" : "The glow is used to lure victims in -",
+	"portrait" : "/relics_mod/entities/medium_stone_relic/medium_stone_relic.png",
+	"level_requirement" : 1,
+	"ingredients": [
+		{
+			"material" : "stone resource",
+			"count" : 3
+		}
+	],
+	"produces": [
+		{
+			"item":"relics_mod:medium_stone_relic"
+		}
+		
+	]
+}

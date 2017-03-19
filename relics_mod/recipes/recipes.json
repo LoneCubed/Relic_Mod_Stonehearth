@@ -1,0 +1,49 @@
+{
+	"craftable_recipes" : {
+		"furniture" : {
+			"recipes" : {
+				"small_stone_relic" : {
+					"recipe" : "file(small_stone_relic.json)" }
+				}
+				
+				{
+				"medium_stone_relic" : {
+					"recipe" : "file(medium_stone_relic.json)" }
+				}
+				
+				{
+				"large_stone_relic" : {
+					"recipe" : "file(large_stone_relic.json)" }
+				}
+				
+				{
+				"relic_chair_1" : {
+					"recipe" : "file(relic_chair_1.json)" }
+				}
+
+				{
+				"relic_chair_2" : {
+					"recipe" : "file(relic_chair_2.json)" }
+				}
+
+				{
+				"relic_chair_3" : {
+					"recipe" : "file(relic_chair_3.json)" }
+				}
+
+				{
+				"relic_chair_4" : {
+					"recipe" : "file(relic_chair_4.json)" }
+				}
+
+				{
+				"relic_chair_5" : {
+					"recipe" : "file(relic_chair_5.json)" }
+				}
+						}
+					}
+				}
+			}
+		}
+	}
+}

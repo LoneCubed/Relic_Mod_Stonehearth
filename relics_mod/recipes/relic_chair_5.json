@@ -1,0 +1,21 @@
+{
+	"type" : "recipe",
+	"work_units" : 2,
+	"recipe_name" : "relic_chair_5",
+	"description" : "Ancient rulers would sit in chairs like this one",
+	"flavor" : "Take their thrones! The comfy pillows too!",
+	"portrait" : "/relics_mod/entities/relic_chair_5/relic_chair_5.png",
+	"level_requirement" : 3,
+	"ingredients": [
+		{
+			"material" : "stone resource",
+			"count" : 5
+		}
+	],
+	"produces": [
+		{
+			"item":"relics_mod:relic_chair_5"
+		}
+		
+	]
+}
